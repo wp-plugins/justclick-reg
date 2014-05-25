@@ -1,0 +1,50 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: justclick-reg\n"
+"POT-Creation-Date: 2013-09-20 23:05+0200\n"
+"PO-Revision-Date: 2013-09-20 23:05+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: justclick-reg.php:30
+msgid "Justclick Reg Settings"
+msgstr ""
+
+#: justclick-reg.php:30
+msgid "Justclick Reg"
+msgstr ""
+
+#: justclick-reg.php:38
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: justclick-reg.php:47
+msgid "Save settings"
+msgstr ""
+
+#: justclick-reg.php:71
+msgid "Justclick user login"
+msgstr ""
+
+#: justclick-reg.php:77
+msgid "Justclick secret key for signature"
+msgstr ""
+
+#: justclick-reg.php:83
+msgid "Justclick mailing group"
+msgstr ""
+
+#: justclick-reg.php:89
+msgid "Add subscribtion for user when register"
+msgstr ""
+
+#: justclick-reg.php:95
+msgid "Remove subscribtion for user when deleted"
+msgstr ""
