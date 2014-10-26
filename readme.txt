@@ -3,7 +3,7 @@ Contributors: poltavtcev
 Donate link: http://www.poltavcev.name
 Tags: justclick, users, user
 Requires at least: 2.8.x
-Tested up to: 3.9.1
+Tested up to: 4.0
 Stable tag: 1.0
 
 
