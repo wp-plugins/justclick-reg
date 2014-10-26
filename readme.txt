@@ -9,7 +9,7 @@ Stable tag: 1.0
 
 == Description ==
 
-Enable automatic subsription to Justclick.ru  (http://justclick.ru) mailing group for new registered user, also automatic remove subsription when user deleted. Translated to Russian, Ukrainian.
+Enable automatic subsription to Justclick.ru  (http://justclick.ru) mailing group for new registered user, also automatic remove subsription when user deleted.
 
 In order plugin to work you must have active account on Justclick.ru service.   
 
