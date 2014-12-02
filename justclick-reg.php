@@ -5,6 +5,7 @@ Plugin URI: http://poltavcev.name/go/justclickreg/
 Description: Enable automatic subsription to <a href="http://justclick.ru">Justclick.ru</a> mailing group for new registered user, also automatic remove subsription when user deleted.
 Version: 1.0
 Author: Serhiy Derepa
+Author URI: http://poltavcev.name/shop/plugin-justclickreg/
 */
 
 if(!class_exists('Justclick_Reg'))
